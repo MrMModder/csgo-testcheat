@@ -1,0 +1,12 @@
+﻿  ESPCSGO.cpp
+C:\Users\Maarten\source\repos\CsgoESP\CsgoESP\ESPCSGO.cpp(131,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Maarten\source\repos\CsgoESP\CsgoESP\ESPCSGO.cpp(131,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Maarten\source\repos\CsgoESP\CsgoESP\ESPCSGO.cpp(132,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Maarten\source\repos\CsgoESP\CsgoESP\ESPCSGO.cpp(132,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Maarten\source\repos\CsgoESP\CsgoESP\ESPCSGO.cpp(165,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Maarten\source\repos\CsgoESP\CsgoESP\ESPCSGO.cpp(165,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Maarten\source\repos\CsgoESP\CsgoESP\ESPCSGO.cpp(165,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Maarten\source\repos\CsgoESP\CsgoESP\ESPCSGO.cpp(165,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Maarten\source\repos\CsgoESP\CsgoESP\ESPCSGO.cpp(166,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Maarten\source\repos\CsgoESP\CsgoESP\ESPCSGO.cpp(166,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CsgoESP.vcxproj -> C:\Users\Maarten\source\repos\CsgoESP\Debug\CsgoESP.exe
