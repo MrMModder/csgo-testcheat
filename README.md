@@ -1,2 +1,2 @@
 # csgo-testcheat
-Special v
+Een programma gemaakt om memory editing te onderzoeken
